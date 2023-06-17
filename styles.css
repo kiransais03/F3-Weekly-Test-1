@@ -22,3 +22,29 @@ input {
     justify-content: flex-start;
     column-gap: 120px;
 } 
+
+#btnadd {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#commentred {
+    color: red;
+}
+
+#commentgreen {
+    color:green;
+}
+
+.blkdivclass {
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.blkdivclass {
+    border: 2px solid white;
+    max-width: fit-content;
+} 
